@@ -1,0 +1,18 @@
+.main_right ,.main_left ,.main{
+    width: 100%;
+}
+.tab ul li {
+    width: 24%;
+}
+.main{
+    width: 100%;
+}
+.main_right{
+    display: none;
+}
+.span{
+    left: 272px;
+}
+.logo{
+    font-size: .9rem;
+}
